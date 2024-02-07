@@ -117,6 +117,7 @@ import Counter from '@/component/Counter/Counter';
 
 const HomePage = () => {
   // console.log('Hello World');
+  // throw new Error();
   return (
     <div>
       <h1 className='text-3xl'>This is next app</h1>
