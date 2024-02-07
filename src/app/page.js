@@ -111,7 +111,7 @@
 //     </main>
 //   );
 // }
-"use client";
+// "use client";
 
 import Counter from '@/component/Counter/Counter';
 
