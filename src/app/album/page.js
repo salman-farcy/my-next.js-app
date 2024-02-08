@@ -20,7 +20,13 @@ const AlbumPage = () => {
                     height={800}
                />
 
-               
+               <img
+                    src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png"
+                    alt="next logo"
+                    width={800}
+                    height={800}
+               />
+
           </div>
      );
 };
